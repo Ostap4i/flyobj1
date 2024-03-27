@@ -1,0 +1,18 @@
+C:\Users\Admin\source\repos\FLY oBject\FLY oBject\bin\Debug\net6.0-windows\FLY oBject.exe
+C:\Users\Admin\source\repos\FLY oBject\FLY oBject\bin\Debug\net6.0-windows\FLY oBject.deps.json
+C:\Users\Admin\source\repos\FLY oBject\FLY oBject\bin\Debug\net6.0-windows\FLY oBject.runtimeconfig.json
+C:\Users\Admin\source\repos\FLY oBject\FLY oBject\bin\Debug\net6.0-windows\FLY oBject.dll
+C:\Users\Admin\source\repos\FLY oBject\FLY oBject\bin\Debug\net6.0-windows\FLY oBject.pdb
+C:\Users\Admin\source\repos\FLY oBject\FLY oBject\obj\Debug\net6.0-windows\FLY oBject.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\FLY oBject\FLY oBject\obj\Debug\net6.0-windows\FLY_oBject.Form1.resources
+C:\Users\Admin\source\repos\FLY oBject\FLY oBject\obj\Debug\net6.0-windows\FLY_oBject.Properties.Resources.resources
+C:\Users\Admin\source\repos\FLY oBject\FLY oBject\obj\Debug\net6.0-windows\FLY oBject.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\FLY oBject\FLY oBject\obj\Debug\net6.0-windows\FLY oBject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\FLY oBject\FLY oBject\obj\Debug\net6.0-windows\FLY oBject.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\FLY oBject\FLY oBject\obj\Debug\net6.0-windows\FLY oBject.AssemblyInfo.cs
+C:\Users\Admin\source\repos\FLY oBject\FLY oBject\obj\Debug\net6.0-windows\FLY oBject.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\FLY oBject\FLY oBject\obj\Debug\net6.0-windows\FLY oBject.dll
+C:\Users\Admin\source\repos\FLY oBject\FLY oBject\obj\Debug\net6.0-windows\refint\FLY oBject.dll
+C:\Users\Admin\source\repos\FLY oBject\FLY oBject\obj\Debug\net6.0-windows\FLY oBject.pdb
+C:\Users\Admin\source\repos\FLY oBject\FLY oBject\obj\Debug\net6.0-windows\FLY oBject.genruntimeconfig.cache
+C:\Users\Admin\source\repos\FLY oBject\FLY oBject\obj\Debug\net6.0-windows\ref\FLY oBject.dll
